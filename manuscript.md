@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/5d48b41f55003d4365f18cd966d85a69028c37d9/" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/173c34059374d089451bb2eacd7ba80dc91988b1/" />
 
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/5d48b41f55003d4365f18cd966d85a69028c37d9/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/173c34059374d089451bb2eacd7ba80dc91988b1/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/5d48b41f55003d4365f18cd966d85a69028c37d9/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/173c34059374d089451bb2eacd7ba80dc91988b1/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/5d48b41f55003d4365f18cd966d85a69028c37d9/))
+([permalink](https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/173c34059374d089451bb2eacd7ba80dc91988b1/))
 was automatically generated
-from [laurentperrinet/Perrinet20PredictiveProcessing_manubot@5d48b41](https://github.com/laurentperrinet/Perrinet20PredictiveProcessing_manubot/tree/5d48b41f55003d4365f18cd966d85a69028c37d9)
+from [laurentperrinet/Perrinet20PredictiveProcessing_manubot@173c340](https://github.com/laurentperrinet/Perrinet20PredictiveProcessing_manubot/tree/173c34059374d089451bb2eacd7ba80dc91988b1)
 on November 30, 2020.
 </em></small>
 
