@@ -1,99 +1,24 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Laurent U Perrinet
 bibliography:
 - content/manual-references.json
 date-meta: '2020-11-30'
-header-includes: '<!--
-
-  Manubot generated metadata rendered from header-includes-template.html.
-
-  Suggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html
-
-  -->
-
-  <meta name="dc.format" content="text/html" />
-
-  <meta name="dc.title" content="Manuscript Title" />
-
-  <meta name="citation_title" content="Manuscript Title" />
-
-  <meta property="og:title" content="Manuscript Title" />
-
-  <meta property="twitter:title" content="Manuscript Title" />
-
-  <meta name="dc.date" content="2020-11-30" />
-
-  <meta name="citation_publication_date" content="2020-11-30" />
-
-  <meta name="dc.language" content="en-US" />
-
-  <meta name="citation_language" content="en-US" />
-
-  <meta name="dc.relation.ispartof" content="Manubot" />
-
-  <meta name="dc.publisher" content="Manubot" />
-
-  <meta name="citation_journal_title" content="Manubot" />
-
-  <meta name="citation_technical_report_institution" content="Manubot" />
-
-  <meta name="citation_author" content="John Doe" />
-
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
-  <meta name="twitter:creator" content="@johndoe" />
-
-  <meta name="citation_author" content="Jane Roe" />
-
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
-  <link rel="canonical" href="https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/" />
-
-  <meta property="og:url" content="https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/" />
-
-  <meta property="twitter:url" content="https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/" />
-
-  <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/" />
-
-  <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/manuscript.pdf" />
-
-  <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/manuscript.pdf" />
-
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/173c34059374d089451bb2eacd7ba80dc91988b1/" />
-
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/173c34059374d089451bb2eacd7ba80dc91988b1/" />
-
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/173c34059374d089451bb2eacd7ba80dc91988b1/manuscript.pdf" />
-
-  <meta property="og:type" content="article" />
-
-  <meta property="twitter:card" content="summary_large_image" />
-
-  <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
-
-  <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
-
-  <meta name="theme-color" content="#ad1457" />
-
-  <!-- end Manubot generated metadata -->'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"From the retina to action: Dynamics of predictive processing in the visual system\" />\n<meta name=\"citation_title\" content=\"From the retina to action: Dynamics of predictive processing in the visual system\" />\n<meta property=\"og:title\" content=\"From the retina to action: Dynamics of predictive processing in the visual system\" />\n<meta property=\"twitter:title\" content=\"From the retina to action: Dynamics of predictive processing in the visual system\" />\n<meta name=\"dc.date\" content=\"2020-11-30\" />\n<meta name=\"citation_publication_date\" content=\"2020-11-30\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Laurent U Perrinet\" />\n<meta name=\"citation_author_institution\" content=\"Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Universit\xE9\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-9536-010X\" />\n<meta name=\"twitter:creator\" content=\"@laurentperrinet\" />\n<link rel=\"canonical\" href=\"https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/\" />\n<meta property=\"og:url\" content=\"https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/\" />\n<meta property=\"twitter:url\" content=\"https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/\" />\n<meta name=\"citation_pdf_url\" content=\"https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/88d9a762d08f5f5d8f798553a9634cb0fecfeec4/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/88d9a762d08f5f5d8f798553a9634cb0fecfeec4/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/88d9a762d08f5f5d8f798553a9634cb0fecfeec4/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
-- markdown
-- publishing
-- manubot
-lang: en-US
+- Vision
+- Delays
+- Topography
+- Spiking Neural Networks
+- Bayesian Model
+- Dynamics
+- Perception
+- Active Inference
 manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: 'From the retina to action: Dynamics of predictive processing in the visual system'
 ...
 
 
@@ -103,9 +28,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/173c34059374d089451bb2eacd7ba80dc91988b1/))
+([permalink](https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/88d9a762d08f5f5d8f798553a9634cb0fecfeec4/))
 was automatically generated
-from [laurentperrinet/Perrinet20PredictiveProcessing_manubot@173c340](https://github.com/laurentperrinet/Perrinet20PredictiveProcessing_manubot/tree/173c34059374d089451bb2eacd7ba80dc91988b1)
+from [laurentperrinet/Perrinet20PredictiveProcessing_manubot@88d9a76](https://github.com/laurentperrinet/Perrinet20PredictiveProcessing_manubot/tree/88d9a762d08f5f5d8f798553a9634cb0fecfeec4)
 on November 30, 2020.
 </em></small>
 
@@ -113,25 +38,16 @@ on November 30, 2020.
 
 
 
-+ **John Doe**<br>
++ **Laurent U Perrinet**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-9536-010X](https://orcid.org/0000-0002-9536-010X)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [laurentperrinet](https://github.com/laurentperrinet)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [laurentperrinet](https://twitter.com/laurentperrinet)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
+     · Funded by This work was supported by ANR project "Horizontal-V1" N°ANR-17-CE37-0006.
   </small>
 
 
