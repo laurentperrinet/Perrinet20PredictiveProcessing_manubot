@@ -7,7 +7,7 @@ set -o errexit \
     -o pipefail
 
 # Set timezone used by Python for setting the manuscript's date
-export TZ=Etc/UTC
+export TZ=Europe/Paris
 # Default Python to read/write text files using UTF-8 encoding
 export LC_ALL=en_US.UTF-8
 
