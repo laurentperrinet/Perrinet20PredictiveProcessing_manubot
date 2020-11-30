@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# From the retina to action: Dynamics of predictive processing in the visual system
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -8,10 +8,8 @@
 [![Travis Build Status](https://travis-ci.com/manubot/rootstock.svg?branch=master)](https://travis-ci.com/manubot/rootstock)
 <!-- usage note: delete CI badges above for services not used by your manuscript -->
 
-## Manuscript description
 
 <!-- usage note: edit this section. -->
-## From the retina to action: Dynamics of predictive processing in the visual system
 ## by Laurent Perrinet (2020)
 
 
