@@ -10,7 +10,7 @@ Bucy
 CAPTCHA
 CNRS
 compu
-convolutional
+Convolutional
 counterintuitive
 CPUs
 datasets

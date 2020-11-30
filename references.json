@@ -1,1 +1,1616 @@
-[]
+[
+  {
+    "author": [
+      {
+        "family": "Atick",
+        "given": "Joseph J."
+      }
+    ],
+    "container-title": "Network: Computation in Neural Systems",
+    "id": "gNvO5wtL",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "keyword": "bicv-sparse, natural\\_scenes, sanz12jnp, vacher14, natural-scenes",
+    "note": "00932\nThis CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Atick92",
+    "page": "213-52",
+    "title": "Could information theory provide an ecological theory of sensory processing?",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
+    "ISSN": "0033-295X",
+    "PMID": "13167245",
+    "URL": "http://view.ncbi.nlm.nih.gov/pubmed/13167245",
+    "author": [
+      {
+        "family": "Attneave",
+        "given": "F."
+      }
+    ],
+    "container-title": "Psychological Review",
+    "id": "vPOKN95b",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          1954
+        ]
+      ]
+    },
+    "keyword": "bicv-sparse, perception, vision",
+    "note": "03404\nThis CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Attneave54",
+    "page": "183-93",
+    "title": "Some informational aspects of visual perception.",
+    "type": "article-journal",
+    "volume": "61"
+  },
+  {
+    "DOI": "10.1152/jn.00369.2005",
+    "ISSN": "0022-3077",
+    "PMID": "16267121",
+    "URL": "http://jn.physiology.org/cgi/doi/10.1152/jn.00369.2005 http://jn.physiology.org/content/95/2/593.abstract http://jn.physiology.org/content/95/2/593.full.pdf",
+    "abstract": "Schizophrenia patients exhibit several smooth pursuit abnormalities including poor pursuit initiation. Velocity discrimination is also impaired and is correlated with pursuit initiation performance-suggesting that pursuit deficits are related to impairments in processing velocity information. Studies suggest that pursuit initiation is influenced by prior target motion information and/or expectations and that this is likely caused by expectation-based changes in the perceptual inputs to the pursuit system. We examined whether poor pursuit initiation in schizophrenia results from inaccurate encoding of immediate velocity signals, or whether these deficits reflect a failure to use prior target motion information to \"optimize\" the response. Twenty-eight patients and 24 controls performed an adapted version of a \"remembered pursuit task.\" Trials consisted of a series of target motions, the first of which occurred unexpectedly, followed by four to seven identical targets each preceded by an auditory cue and a \"catch target\" in which a cue was given followed by target extinction. Initiation eye velocity in response to unexpected, first targets was similar in the patient and control groups. In contrast, patients showed lower eye velocity in response to repeated, cued targets compared with controls. Patients also showed reduced eye velocity in response to catch targets. Reduction in pursuit latency across repeated targets was less robust in patients. Results suggest that processing of immediate velocity information is unaffected in schizophrenia and that pursuit initiation deficits reflect an inability to accurately generate, store, and/or access \"remembered\" velocity signals.",
+    "author": [
+      {
+        "family": "Avila",
+        "given": "Matthew T."
+      },
+      {
+        "family": "Hong",
+        "given": "L. Elliot"
+      },
+      {
+        "family": "Moates",
+        "given": "Amanda"
+      },
+      {
+        "family": "Turano",
+        "given": "Kathleen A."
+      },
+      {
+        "family": "Thaker",
+        "given": "Gunvant K."
+      }
+    ],
+    "container-title": "Journal of neurophysiology",
+    "id": "6UMQUKGo",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          10
+        ]
+      ]
+    },
+    "keyword": "free energy, freemove, schizophrenia",
+    "page": "593-601",
+    "title": "Role of anticipation in schizophrenia-related pursuit initiation deficits.",
+    "type": "article-journal",
+    "volume": "95",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Avila06"
+  },
+  {
+    "author": [
+      {
+        "family": "Barlow",
+        "given": "H B"
+      }
+    ],
+    "container-title": "Sensory communication",
+    "id": "OiY9qiDL",
+    "issued": {
+      "date-parts": [
+        [
+          1961
+        ]
+      ]
+    },
+    "keyword": "🔍No DOI found",
+    "note": "Citation Key: Barlow:1961ww\nThis CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Barlow61",
+    "title": "Possible principles underlying the transformation of sensory messages",
+    "type": "article-journal"
+  },
+  {
+    "ISSN": "0022-3751",
+    "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1180117/",
+    "abstract": "1\\. Experiments have been conducted on human subjects to determine the role of prediction in smooth eye movement control. Subjects were required to actively pursue a small target or stare passively at a larger display as it moved in the horizontal plane. 2. Target motion was basically periodic, but, after a random number of cycles an unexpected change was made in the amplitude, direction or frequency of target motion. Initially, the periodic stimulus took the form of a square waveform. In subsequent experiments, a triangular or sawtooth waveform was used, but in order to examine the timing of the response in relation to stimulus appearance, the target was tachistoscopically illuminated for 40-320 ms at the time that it passed through the mid-line position. 3. When subjects either actively pursued the target or stared passively at the larger display a characteristic pattern of steady-state eye movement was evoked composed of two phases, an initial build-up of eye velocity that reached a peak after 200 ms, followed by a decay phase with a time constant of 0.5-2 s. The build-up phase was initiated prior to target displacement for square-wave motion and before onset of target illumination for other waveforms. 4. The peak eye velocity evoked gradually increased over the first two to four cycles of repeated stimulation. Simultaneously, the response became more phase advanced, the reaction time between stimulus onset and the time at which peak velocity occurred decreasing from an average of 300 to 200 ms for triangular waveform stimuli. 5. When there was a sudden and unexpected change in amplitude and direction of the stimulus waveform, the eye movement induced had a peak velocity and direction that was inappropriate for the current visual stimulus, but which was highly correlated with the features of the preceding sequence in the stimulus. 6. When there was a sudden change in the frequency of the stimulus waveform the predictive eye movement was induced with a timing appropriate to the periodicity of the previous sequence but inappropriate to the new sequence. 7. The results indicate that prediction is carried out through the storage of information about both the magnitude and timing of eye velocity. The trajectory of the averaged eye velocity response was similar in form irrespective of the duration of target exposure or basic stimulus frequency, suggesting that the predictive estimate is released as a stereotyped volley of constant duration but varying magnitude under the control of a periodicity {estimator.(ABSTRACT} {TRUNCATED} {AT} 400 {WORDS})",
+    "author": [
+      {
+        "family": "Barnes",
+        "given": "Graham R."
+      },
+      {
+        "family": "Asselman",
+        "given": "PT T."
+      }
+    ],
+    "container-title": "The Journal of physiology",
+    "id": "etEAqRbH",
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "keyword": "Time Factors, Humans, Saccades, Learning, freemove, Pursuit, Smooth, Smooth: physiology, spem, khoei12jpp, Learning: physiology, Saccades: physiology, prediction, Rotation, motion{\\\\\\_}detection",
+    "note": "00292 bibtex: Barnes1991 bibtex\\[mendeley-groups=biblio thesis;pmid=1895243\\]\nThis CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Barnes91",
+    "page": "439-461",
+    "title": "The mechanism of prediction in human smooth pursuit eye movements.",
+    "type": "article-journal",
+    "volume": "439"
+  },
+  {
+    "DOI": "10/f4gsgg",
+    "ISSN": "08966273",
+    "URL": "http://dx.doi.org/10.1016/j.neuron.2012.10.038",
+    "abstract": "This Perspective considers the influential notion of a canonical (cortical) microcircuit in light of recent theories about neuronal processing. Specifically, we conciliate quantitative studies of microcircuitry and the functional logic of neuronal computations. We revisit the established idea that message passing among hierarchical cortical areas implements a form of Bayesian inference-paying careful attention to the implications for intrinsic connections among neuronal populations. By deriving canonical forms for these computations, one can associate specific neuronal populations with specific computational roles. This analysis discloses a remarkable correspondence between the microcircuitry of the cortical column and the connectivity implied by predictive coding. Furthermore, it provides some intuitive insights into the functional asymmetries between feedforward and feedback connections and the characteristic frequencies over which they operate.",
+    "author": [
+      {
+        "family": "Bastos",
+        "given": "Andre M."
+      },
+      {
+        "family": "Usrey",
+        "given": "W. Martin"
+      },
+      {
+        "family": "Adams",
+        "given": "Rick A."
+      },
+      {
+        "family": "Mangun",
+        "given": "George R."
+      },
+      {
+        "family": "Fries",
+        "given": "Pascal"
+      },
+      {
+        "family": "Friston",
+        "given": "Karl J."
+      }
+    ],
+    "container-title": "Neuron",
+    "id": "TShmr5KQ",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "note": "00696 bibtex: Bastos2012 bibtex\\[isbn=1053-8119;publisher=Elsevier Inc.;arxivid=NIHMS150003;pmid=23177956\\] arXiv: NIHMS150003\nThis CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Bastos12",
+    "page": "695-711",
+    "title": "Canonical Microcircuits for Predictive Coding",
+    "type": "article-journal",
+    "volume": "76"
+  },
+  {
+    "DOI": "10.3389/fncir.2013.00206",
+    "ISSN": "1662-5110",
+    "URL": "http://journal.frontiersin.org/article/10.3389/fncir.2013.00206/abstract",
+    "abstract": "Synaptic Noise is thought to be a limiting factor for computational efficiency in the Brain. In visual cortex (V1), ongoing activity is present in vivo, and spiking responses to simple stimuli are highly unreliable across trials. Stimulus statistics used to plot receptive fields, however, are quite different from those experienced during natural visuomotor exploration. We recorded V1 neurons intracellularly in the anaesthetized and paralyzed cat and compared their spiking and synaptic responses to full field natural images animated by simulated eye-movements to those evoked by simpler (grating) or higher dimensionality statistics (dense noise). In most cells, natural scene animation was the only condition where high temporal precision (in the 10-20 ms range) was maintained during sparse and reliable activity. At the subthreshold level, irregular but highly reproducible membrane potential dynamics were observed, even during long (several 100 ms) “spike-less” periods. We showed that both the spatial structure of natural scenes and the temporal dynamics of eye-movements increase the signal-to-noise ratio by a non linear amplification of the signal combined with a reduction of the subthreshold contextual noise. These data support the view that the sparsening and the time precision of the neural code in V1 may depend primarily on three factors: 1) broadband input spectrum: the bandwidth must be rich enough for recruiting optimally the diversity of spatial and time constants during recurrent processing; 2) tight temporal interplay of excitation and inhibition: conductance measurements demonstrate that natural scene statistics narrow selectively the duration of the spiking opportunity window during which the balance between excitation and inhibition changes transiently and reversibly; 3) signal energy in the lower frequency band: a minimal level of power is needed below 10 Hz to reach consistently the spiking threshold, a situation rarely reached with visual dense noise.",
+    "author": [
+      {
+        "family": "Baudot",
+        "given": "Pierre"
+      },
+      {
+        "family": "Levy",
+        "given": "Manuel"
+      },
+      {
+        "family": "Marre",
+        "given": "Olivier"
+      },
+      {
+        "family": "Monier",
+        "given": "Cyril"
+      },
+      {
+        "family": "Pananceau",
+        "given": "Marc"
+      },
+      {
+        "family": "Frégnac",
+        "given": "Yves"
+      }
+    ],
+    "container-title": "Frontiers in Neural Circuits",
+    "id": "PQeYtlMf",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "keyword": "Visual Cortex, Eye Movements, bicv-sparse, area-v1, taouali15, Sensory coding, natural-scenes, Intracellular membrane potential dynamics, Natural visual statistics, Reliability, taouali14",
+    "page": "206",
+    "title": "Animation of natural scene by virtual eye-movements evokes high precision and low noise in V1 neurons",
+    "type": "article-journal",
+    "volume": "7",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Baudot13"
+  },
+  {
+    "DOI": "10/gfvs6r",
+    "ISSN": "0140-525X, 1469-1825",
+    "URL": "https://www.cambridge.org/core/product/identifier/S0140525X19000049/type/journal_article",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          22
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Brette",
+        "given": "Romain"
+      }
+    ],
+    "container-title": "Behavioral and Brain Sciences",
+    "id": "A2lGKd9r",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          2
+        ]
+      ]
+    },
+    "note": "00002\nThis CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Brette19",
+    "page": "1-44",
+    "title": "Is coding a relevant metaphor for the brain?",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10/b9shf4",
+    "ISSN": "0036-8075, 1095-9203",
+    "PMID": "9924031",
+    "URL": "http://science.sciencemag.org/content/283/5402/695",
+    "abstract": "The receptive field of a visual neuron is classically defined as the region of space (or retina) where a visual stimulus evokes a change in its firing activity. At the cortical level, a challenging issue concerns the roles of feedforward, local recurrent, intracortical, and cortico-cortical feedback connectivity in receptive field properties. Intracellular recordings in cat area 17 showed that the visually evoked synaptic integration field extends over a much larger area than that established on the basis of spike activity. Synaptic depolarizing responses to stimuli flashed at increasing distances from the center of the receptive field decreased in strength, whereas their onset latency increased. These findings suggest that subthreshold responses in the unresponsive region surrounding the classical discharge field result from the integration of visual activation waves spread by slowly conducting horizontal axons within primary visual cortex.",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          7
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Bringuier",
+        "given": "Vincent"
+      },
+      {
+        "family": "Chavane",
+        "given": "Frédéric"
+      },
+      {
+        "family": "Glaeser",
+        "given": "Larry"
+      },
+      {
+        "family": "Frégnac",
+        "given": "Yves"
+      }
+    ],
+    "container-title": "Science",
+    "id": "zNDCo9Hy",
+    "issue": "5402",
+    "issued": {
+      "date-parts": [
+        [
+          1999,
+          1
+        ]
+      ]
+    },
+    "note": "00535\nThis CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Bringuier99",
+    "page": "695-699",
+    "title": "Horizontal Propagation of Visual Activity in the Synaptic Integration Field of Area 17 Neurons",
+    "type": "article-journal",
+    "volume": "283"
+  },
+  {
+    "DOI": "10.1080/03640210802035191",
+    "ISSN": "0364-0213",
+    "abstract": "Over the history of the study of visual perception there has been great success at discovering countless visual illusions. There has been less success in organizing the overwhelming variety of illusions into empirical generalizations (much less explaining them all via a unifying theory). Here, this article shows that it is possible to systematically organize more than 50 kinds of illusion into a 7 × 4 matrix of 28 classes. In particular, this article demonstrates that (1) smaller sizes, (2) slower speeds, (3) greater luminance contrast, (4) farther distance, (5) lower eccentricity, (6) greater proximity to the vanishing point, and (7) greater proximity to the focus of expansion all tend to have similar perceptual effects, namely, to (A) increase perceived size, (B) increase perceived speed, (C) decrease perceived luminance contrast, and (D) decrease perceived distance. The detection of these empirical regularities was motivated by a hypothesis, called \"perceiving the present,\" that the visual system possesses mechanisms for compensating neural delay during forward motion. This article shows how this hypothesis predicts the empirical regularity.",
+    "author": [
+      {
+        "dropping-particle": "a",
+        "family": "Changizi",
+        "given": "Mark"
+      },
+      {
+        "family": "Hsieh",
+        "given": "Andrew"
+      },
+      {
+        "family": "Nijhawan",
+        "given": "Romi"
+      },
+      {
+        "family": "Kanai",
+        "given": "Ryota"
+      },
+      {
+        "family": "Shimojo",
+        "given": "Shinsuke"
+      }
+    ],
+    "container-title": "Cognitive science",
+    "id": "C15UyNIR",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "keyword": "Vision,Illusions,Flash-lag effect,Compensation,Ecology,Evolution,Extrapolation,Generalization,Neural delay,Perceiving the present,Systematization,Unification,\\#nosource",
+    "title": "Perceiving the Present and a Systematization of Illusions.",
+    "type": "article-journal",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Changizi08"
+  },
+  {
+    "author": [
+      {
+        "family": "D’Arcy Thompson",
+        "given": "Wentworth"
+      }
+    ],
+    "id": "7rzAnxld",
+    "issued": {
+      "date-parts": [
+        [
+          1917
+        ]
+      ]
+    },
+    "keyword": "Growth",
+    "note": "Open Library ID: OL6604798M\nThis CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: DArcy-Thompson17",
+    "number-of-pages": "xv, 793",
+    "publisher": "University press",
+    "publisher-place": "Cambridge \\[Eng.\\]",
+    "title": "On growth and form.",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1038/nrn2787",
+    "ISSN": "1471-003X",
+    "URL": "http://www.nature.com/doifinder/10.1038/nrn2787",
+    "author": [
+      {
+        "family": "Friston",
+        "given": "Karl"
+      }
+    ],
+    "container-title": "Nature Reviews Neuroscience",
+    "id": "52RUIxy5",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "keyword": "free energy, bayesian, review, prediction\\_error",
+    "page": "127-138",
+    "title": "The free-energy principle: a unified brain theory?",
+    "type": "article-journal",
+    "volume": "11",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Friston10"
+  },
+  {
+    "DOI": "10.1155/2010/621670",
+    "ISSN": "1024-123X",
+    "URL": "http://www.hindawi.com/journals/mpe/2010/621670/",
+    "abstract": "\\<p\\>We describe a Bayesian filtering scheme for nonlinear state-space models in continuous time. This scheme is called Generalised Filtering and furnishes posterior (conditional) densities on hidden states and unknown parameters generating observed data. Crucially, the scheme operates online, assimilating data to optimize the conditional density on time-varying states and time-invariant parameters. In contrast to Kalman and Particle smoothing, Generalised Filtering does not require a backwards pass. In contrast to variational schemes, it does not assume conditional independence between the states and parameters. Generalised Filtering optimises the conditional density with respect to a free-energy bound on the model’s log-evidence. This optimisation uses the generalised motion of hidden states and parameters, under the prior assumption that the motion of the parameters is small. We describe the scheme, present comparative evaluations with a fixed-form variational version, and conclude with an illustrative application to a nonlinear state-space model of brain imaging time-series.\\</p\\>",
+    "author": [
+      {
+        "family": "Friston",
+        "given": "Karl"
+      },
+      {
+        "family": "Stephan",
+        "given": "Klaas"
+      },
+      {
+        "family": "Li",
+        "given": "Baojuan"
+      },
+      {
+        "family": "Daunizeau",
+        "given": "Jean"
+      }
+    ],
+    "container-title": "Mathematical Problems in Engineering",
+    "id": "Towk5GUl",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "keyword": "free energy",
+    "page": "1-34",
+    "title": "Generalised Filtering",
+    "type": "article-journal",
+    "volume": "2010",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Friston10generalized"
+  },
+  {
+    "DOI": "10/gdhvzr",
+    "ISSN": "2041-1723",
+    "URL": "https://www.nature.com/articles/s41467-018-04062-6",
+    "abstract": "Movements are continually constrained by the current body position and its relation to the surroundings. Here the authors report that the population activity of monkey dorsal premotor cortex neurons dynamically represents the probability distribution of possible reach directions.",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          8
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Glaser",
+        "given": "Joshua I."
+      },
+      {
+        "family": "Perich",
+        "given": "Matthew G."
+      },
+      {
+        "family": "Ramkumar",
+        "given": "Pavan"
+      },
+      {
+        "family": "Miller",
+        "given": "Lee E."
+      },
+      {
+        "family": "Kording",
+        "given": "Konrad P."
+      }
+    ],
+    "container-title": "Nature Communications",
+    "id": "9KwP7Laj",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          5
+        ]
+      ]
+    },
+    "note": "00005\nThis CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Glaser18",
+    "page": "1788",
+    "title": "Population coding of conditional probability distributions in dorsal premotor cortex",
+    "type": "article-journal",
+    "volume": "9"
+  },
+  {
+    "DOI": "10/cgdwx9",
+    "author": [
+      {
+        "family": "Gregory",
+        "given": "R L"
+      }
+    ],
+    "container-title": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+    "id": "154Yh4Fia",
+    "issue": "1038",
+    "issued": {
+      "date-parts": [
+        [
+          1980,
+          7
+        ]
+      ]
+    },
+    "note": "00670\nThis CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Gregory80",
+    "page": "181-197",
+    "title": "Perceptions as hypotheses",
+    "type": "article-journal",
+    "volume": "290"
+  },
+  {
+    "author": [
+      {
+        "family": "Hansel",
+        "given": "David"
+      },
+      {
+        "dropping-particle": "van",
+        "family": "Vreeswijk",
+        "given": "Carl"
+      }
+    ],
+    "container-title": "Journal of Neuroscience",
+    "id": "14Ff1p8G5",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "4049-4064",
+    "title": "The mechanism of orientation selectivity in primary visual cortex without a functional map",
+    "type": "article-journal",
+    "volume": "32",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Hansel12"
+  },
+  {
+    "DOI": "10.1073/pnas.1619788114",
+    "ISSN": "1091-6490",
+    "PMID": "28167793",
+    "URL": "http://www.ncbi.nlm.nih.gov/pubmed/28167793",
+    "abstract": "Most models of sensory processing in the brain have a feedforward architecture in which each stage comprises simple linear filtering operations and nonlinearities. Models of this form have been used to explain a wide range of neurophysiological and psychophysical data, and many recent successes in artificial intelligence (with deep convolutional neural nets) are based on this architecture. However, neocortex is not a feedforward architecture. This paper proposes a first step toward an alternative computational framework in which neural activity in each brain area depends on a combination of feedforward drive (bottom-up from the previous processing stage), feedback drive (top-down context from the next stage), and prior drive (expectation). The relative contributions of feedforward drive, feedback drive, and prior drive are controlled by a handful of state parameters, which I hypothesize correspond to neuromodulators and oscillatory activity. In some states, neural responses are dominated by the feedforward drive and the theory is identical to a conventional feedforward model, thereby preserving all of the desirable features of those models. In other states, the theory is a generative model that constructs a sensory representation from an abstract representation, like memory recall. In still other states, the theory combines prior expectation with sensory input, explores different possible perceptual interpretations of ambiguous sensory inputs, and predicts forward in time. The theory, therefore, offers an empirically testable framework for understanding how the cortex accomplishes inference, exploration, and prediction.",
+    "author": [
+      {
+        "family": "Heeger",
+        "given": "David J"
+      }
+    ],
+    "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "id": "TqCeNeNP",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "keyword": "vision, inference, prediction, computational neuroscience, neural net",
+    "page": "201619788",
+    "title": "Theory of cortical function.",
+    "type": "article-journal",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Heeger17"
+  },
+  {
+    "DOI": "10.1017/CBO9780511750540.025",
+    "author": [
+      {
+        "family": "Jancke",
+        "given": "Dirk"
+      },
+      {
+        "family": "Erlhagen",
+        "given": "Wolfram"
+      }
+    ],
+    "container-title": "Space and time in perception and action",
+    "id": "zvii7ZUO",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "422-440",
+    "publisher": "Cambridge University Press",
+    "title": "Bridging the gap: a model of common neural mechanisms underlying the Frbhlich effect, the flash-lag effect, and the representational momentum effect",
+    "type": "article-journal",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Jancke10"
+  },
+  {
+    "DOI": "10.1115/1.3662552",
+    "ISSN": "00219223",
+    "PMID": "5311910",
+    "URL": "http://fluidsengineering.asmedigitalcollection.asme.org/article.aspx?articleid=1430402",
+    "abstract": "The classical filtering and prediction problem is re-examined using the Bode- Shannon representation of random processes and the state transition method of analysis of dynamic systems. New results are: (1) The formulation and methods of solution of the problem apply without modifica- tion to stationary and nonstationary statistics and to growing-memory and infinite- memory filters. (2) A nonlinear difference (or differential) equation is derived for the covariance matrix of the optimal estimation error. From the solution of this equation the co- efficients of the difference (or differential) equation of the optimal linear filter are ob- tained without further calculations. (3) The filtering problem is shown to be the dual of the noise-free regulator problem. The new method developed here is applied to two well-known problems, confirming and extending earlier results. The discussion is largely self-contained and proceeds from first principles; basic concepts of the theory of random processes are reviewed in the Appendix.",
+    "author": [
+      {
+        "family": "Kalman",
+        "given": "R. E."
+      }
+    ],
+    "container-title": "Journal of Basic Engineering",
+    "id": "1FwZFZOoa",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1960
+        ]
+      ]
+    },
+    "keyword": "free energy, freemove, kalman, kalman\\_filter",
+    "page": "35",
+    "title": "A New Approach to Linear Filtering and Prediction Problems",
+    "type": "article-journal",
+    "volume": "82",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Kalman60"
+  },
+  {
+    "author": [
+      {
+        "family": "Karvelis",
+        "given": "Povilas"
+      },
+      {
+        "family": "Seitz",
+        "given": "Aaron R"
+      },
+      {
+        "family": "Lawrie",
+        "given": "Stephen M"
+      },
+      {
+        "family": "Seriès",
+        "given": "Peggy"
+      }
+    ],
+    "container-title": "eLife",
+    "id": "opGGuxUd",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "e34115",
+    "publisher": "eLife Sciences Publications Limited",
+    "title": "Autistic traits, but not schizotypy, predict increased weighting of sensory information in Bayesian visual integration",
+    "type": "article-journal",
+    "volume": "7",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Karvelis18autistic"
+  },
+  {
+    "DOI": "10/gft7b2",
+    "ISSN": "1053-8100",
+    "URL": "http://www.sciencedirect.com/science/article/pii/S1053810018304161",
+    "abstract": "Time judgement and time experience are distinct elements of time perception. It is known that time experience tends to be slow, or dilated, when depressed, but there is less certainty or clarity concerning how depression affects time judgement. Here, we use a Bayesian Prediction Error Minimisation (PEM) framework called ‘distrusting the present’ as an explanatory and predictive model of both aspects of time perception. An interval production task was designed to probe and modulate the relationship between time perception and depression. Results showed that hopelessness, a symptom of severe depression, was associated with the ordering of interval lengths, reduced overall error, and dilated time experience. We propose that ‘distrusting the future’ is accompanied by ‘trusting the present’, leading to the experiences of time dilation when depressed or hopeless. Evidence was also found to support a relative difference model of how hopelessness dilates, and arousal accelerates, the rate of experienced time.",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Kent",
+        "given": "Lachlan"
+      },
+      {
+        "dropping-particle": "van",
+        "family": "Doorn",
+        "given": "George"
+      },
+      {
+        "family": "Hohwy",
+        "given": "Jakob"
+      },
+      {
+        "family": "Klein",
+        "given": "Britt"
+      }
+    ],
+    "container-title": "Consciousness and Cognition",
+    "id": "5sfbLE8E",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          3
+        ]
+      ]
+    },
+    "keyword": "Autonomic arousal, Bayesian inference, Hopelessness, Prediction error minimisation, Relativity, Time experience, Time perception",
+    "note": "00000\nThis CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Kent19",
+    "page": "70-80",
+    "title": "Bayes, time perception, and relativity: The central role of hopelessness",
+    "title-short": "Bayes, time perception, and relativity",
+    "type": "article-journal",
+    "volume": "69"
+  },
+  {
+    "DOI": "10.1016/j.visres.2005.10.002",
+    "ISSN": "0042-6989",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0042698905005110",
+    "abstract": "Previous ultra-rapid go/no-go categorization studies with manual responses have demonstrated the remarkable speed and efficiency with which humans process natural scenes. Using a forced-choice saccade task we show here that when two scenes are simultaneously flashed in the left and right hemifields, human participants can reliably make saccades to the side containing an animal in as little as 120 ms. Low level differences between target and distractor images were unable to account for these exceptionally fast responses. The results suggest a very fast and unexpected route linking visual processing in the ventral stream with the programming of saccadic eye movements.",
+    "author": [
+      {
+        "family": "Kirchner",
+        "given": "H"
+      },
+      {
+        "family": "Thorpe",
+        "given": "Sj"
+      }
+    ],
+    "container-title": "Vision Research",
+    "id": "B9iZWoq3",
+    "issue": "11",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "keyword": "Visual Pathways,Humans,Psychomotor Performance,Reaction Time,Saccades,Photic Stimulation,Female,Male,Adult,Learning,Learning: physiology,Pattern Recognition,Visual,Visual: physiology,perrinet11sfn,assofield,Ocular,Ocular: physiology,Visual Pathways: physiology,Fixation,Saccades: physiology,Psychomotor Performance: physiology,Electrooculography,Electrooculography: methods,\\#nosource",
+    "page": "1762-76",
+    "title": "Ultra-Rapid Object Detection with Saccadic Eye Movements: Visual Processing Speed Revisited",
+    "type": "article-journal",
+    "volume": "46",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Kirchner06"
+  },
+  {
+    "DOI": "10.1016/j.tins.2004.10.007",
+    "ISSN": "0166-2236",
+    "PMID": "15541511",
+    "URL": "http://dx.doi.org/10.1016/j.tins.2004.10.007 http://www.bcs.rochester.edu/people/alex/Publications.htm http://linkinghub.elsevier.com/retrieve/pii/S0166223604003352 http://www.sciencedirect.com/science/article/B6T0V-4DSGXRV-1/2/cd1dd12abdb9ba8e3aeef84e023",
+    "abstract": "To use sensory information efficiently to make judgments and guide action in the world, the brain must represent and use information about uncertainty in its computations for perception and action. Bayesian methods have proven successful in building computational theories for perception and sensorimotor control, and psychophysics is providing a growing body of evidence that human perceptual computations are ’Bayes’ optimal’. This leads to the ’Bayesian coding hypothesis’: that the brain represents sensory information probabilistically, in the form of probability distributions. Several computational schemes have recently been proposed for how this might be achieved in populations of neurons. Neurophysiological data on the hypothesis, however, is almost non-existent. A major challenge for neuroscientists is to test these ideas experimentally, and so determine whether and how neurons code information about sensory uncertainty.",
+    "author": [
+      {
+        "family": "Knill",
+        "given": "David C."
+      },
+      {
+        "family": "Pouget",
+        "given": "Alexandre"
+      }
+    ],
+    "container-title": "Trends in Neurosciences",
+    "id": "rXQAASZr",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "keyword": "free energy, freemove, perrinetadamsfriston14, bayesian, neural\\_representation, neural-representation",
+    "page": "712-719",
+    "title": "The Bayesian brain: the role of uncertainty in neural coding and computation",
+    "type": "article-journal",
+    "volume": "27",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Knill04"
+  },
+  {
+    "DOI": "10.1167/14.5.10",
+    "ISSN": "1534-7362",
+    "URL": "http://jov.arvojournals.org/Article.aspx?doi=10.1167/14.5.10",
+    "author": [
+      {
+        "family": "Kowler",
+        "given": "E."
+      },
+      {
+        "family": "Aitkin",
+        "given": "C. D."
+      },
+      {
+        "family": "Ross",
+        "given": "N. M."
+      },
+      {
+        "family": "Santos",
+        "given": "E. M."
+      },
+      {
+        "family": "Zhao",
+        "given": "M."
+      }
+    ],
+    "container-title": "Journal of Vision",
+    "id": "MRcQFPid",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "1-16",
+    "title": "Davida Teller Award Lecture 2013: The importance of prediction and anticipation in the control of smooth pursuit eye movements",
+    "type": "article-journal",
+    "volume": "14",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Kowler14"
+  },
+  {
+    "DOI": "10.1109/TPAMI.2016.2574707",
+    "ISSN": "0162-8828",
+    "PMID": "27411216",
+    "URL": "http://www.ncbi.nlm.nih.gov/pubmed/27411216 http://ieeexplore.ieee.org/document/7508476/",
+    "abstract": "This paper describes novel event-based spatiotemporal features called time-surfaces and how they can be used to create a hierarchical event-based pattern recognition architecture. Unlike existing hierarchical architectures for pattern recognition, the presented model relies on a time oriented approach to extract spatio-temporal features from the asynchronously acquired dynamics of a visual scene. These dynamics are acquired using biologically inspired frameless asynchronous event-driven vision sensors. Similarly to cortical structures, subsequent layers in our hierarchy extract increasingly abstract features using increasingly large spatio-temporal windows. The central concept is to use the rich temporal information provided by events to create contexts in the form of time-surfaces which represent the recent temporal activity within a local spatial neighborhood. We demonstrate that this concept can robustly be used at all stages of an event-based hierarchical model. First layer feature units operate on groups of pixels, while subsequent layer feature units operate on the output of lower level feature units. We report results on a previously published 36 class character recognition task and a 4 class canonical dynamic card pip task, achieving near 100% accuracy on each. We introduce a new 7 class moving face recognition task, achieving 79% accuracy.",
+    "author": [
+      {
+        "family": "Lagorce",
+        "given": "Xavier"
+      },
+      {
+        "family": "Orchard",
+        "given": "Garrick"
+      },
+      {
+        "family": "Galluppi",
+        "given": "Francesco"
+      },
+      {
+        "family": "Shi",
+        "given": "Bertram E."
+      },
+      {
+        "family": "Benosman",
+        "given": "Ryad B."
+      }
+    ],
+    "container-title": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "id": "XJRKlfr8",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "keyword": "event-based vision, feature extraction, Neuromorphic sensing",
+    "page": "1346-1359",
+    "title": "HOTS: A Hierarchy of Event-Based Time-Surfaces for Pattern Recognition",
+    "title-short": "HOTS",
+    "type": "article-journal",
+    "volume": "39",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Lagorce17"
+  },
+  {
+    "DOI": "10/ccv3w2",
+    "ISSN": "0166-2236, 1878-108X",
+    "URL": "https://www.cell.com/trends/neurosciences/abstract/S0166-2236(00)01657-X",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          18
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Lamme",
+        "given": "Victor A. F."
+      },
+      {
+        "family": "Roelfsema",
+        "given": "Pieter R."
+      }
+    ],
+    "container-title": "Trends in Neurosciences",
+    "id": "aLzVgbd7",
+    "issue": "11",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          11,
+          1
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "571-579",
+    "title": "The distinct modes of vision offered by feedforward and recurrent processing",
+    "type": "article-journal",
+    "volume": "23",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Lamme00"
+  },
+  {
+    "author": [
+      {
+        "family": "Linsker",
+        "given": "Ralph"
+      }
+    ],
+    "container-title": "Annual review of Neuroscience",
+    "id": "15JwvGbN7",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "page": "257-281",
+    "publisher": "Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA",
+    "title": "Perceptual neural organization: Some approaches based on network models and information theory",
+    "type": "article-journal",
+    "volume": "13",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Linsker90"
+  },
+  {
+    "DOI": "10/fm92kt",
+    "ISSN": "08936080",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0893608097000117",
+    "abstract": "The computational power of formal models for networks of spiking neurons is compared with that of other neural network models based on McCulloch Pitts neurons (i.e., threshold gates), respectively, sigmoidal gates. In particular it is shown that networks of spiking neurons are, with regard to the number of neurons that are needed, computationally more powerful than these other neural network models. A concrete biologically relevant function is exhibited which can be computed by a single spiking neuron (for biologically reasonable values of its parameters), but which requires hundreds of hidden units on a sigmoidal neural net. On the other hand, it is known that any function that can be computed by a small sigmoidal neural net can also be computed by a small network of spiking neurons. This article does not assume prior knowledge about spiking neurons, and it contains an extensive list of references to the currently available literature on computations in networks of spiking neurons and relevant results from neurobiology. © 1997 Elsevier Science Ltd. All rights reserved.",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Maass",
+        "given": "Wolfgang"
+      }
+    ],
+    "container-title": "Neural Networks",
+    "id": "DUpFdm8C",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          12
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "1659-1671",
+    "title": "Networks of spiking neurons: The third generation of neural network models",
+    "title-short": "Networks of spiking neurons",
+    "type": "article-journal",
+    "volume": "10",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Maass97"
+  },
+  {
+    "DOI": "10.1038/181507a0",
+    "ISSN": "0028-0836",
+    "PMID": "13517199",
+    "URL": "http://www.ncbi.nlm.nih.gov/pubmed/13517199 http://dx.doi.org/10.1038/181507a0 http://www.nature.com/doifinder/10.1038/181507a0",
+    "author": [
+      {
+        "family": "MacKay",
+        "given": "D. M M."
+      }
+    ],
+    "container-title": "Nature",
+    "id": "grTjp0B1",
+    "issue": "4607",
+    "issued": {
+      "date-parts": [
+        [
+          1958
+        ]
+      ]
+    },
+    "keyword": "khoei14thesis, khoei15fle, motionextrapolation, bicv-motion, neural\\_delays, motion\\_anticipation, VISION",
+    "page": "507-508",
+    "title": "Perceptual Stability of a Stroboscopically Lit Visual Field containing Self-Luminous Objects",
+    "type": "article-journal",
+    "volume": "181",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: MacKay58"
+  },
+  {
+    "DOI": "10.1073/PNAS.1218972110",
+    "ISSN": "0027-8424",
+    "PMID": "23479610",
+    "URL": "http://www.ncbi.nlm.nih.gov/pubmed/23479610 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3612613",
+    "abstract": "We investigated the influence of interareal distance on connectivity patterns in a database obtained from the injection of retrograde tracers in 29 areas distributed over six regions (occipital, temporal, parietal, frontal, prefrontal, and limbic). One-third of the 1,615 pathways projecting to the 29 target areas were reported only recently and deemed new-found projections (NFPs). NFPs are predominantly long-range, low-weight connections. A minimum dominating set analysis (a graph theoretic measure) shows that NFPs play a major role in globalizing input to small groups of areas. Randomization tests show that ( i ) NFPs make important contributions to the specificity of the connectivity profile of individual cortical areas, and ( ii ) NFPs share key properties with known connections at the same distance. We developed a similarity index, which shows that intraregion similarity is high, whereas the interregion similarity declines with distance. For area pairs, there is a steep decline with distance in the similarity and probability of being connected. Nevertheless, the present findings reveal an unexpected binary specificity despite the high density (66%) of the cortical graph. This specificity is made possible because connections are largely concentrated over short distances. These findings emphasize the importance of long-distance connections in the connectivity profile of an area. We demonstrate that long-distance connections are particularly prevalent for prefrontal areas, where they may play a prominent role in large-scale communication and information integration.",
+    "author": [
+      {
+        "family": "Markov",
+        "given": "Nikola T."
+      },
+      {
+        "family": "Ercsey-Ravasz",
+        "given": "Maria"
+      },
+      {
+        "family": "Lamy",
+        "given": "Camille"
+      },
+      {
+        "family": "Gomes",
+        "given": "Ana Rita Ribeiro"
+      },
+      {
+        "family": "Magrou",
+        "given": "Loic"
+      },
+      {
+        "family": "Misery",
+        "given": "Pierre"
+      },
+      {
+        "family": "Giroud",
+        "given": "Pascale"
+      },
+      {
+        "family": "Barone",
+        "given": "Pascal"
+      },
+      {
+        "family": "Dehay",
+        "given": "Colette"
+      },
+      {
+        "family": "Toroczkai",
+        "given": "Zoltán"
+      },
+      {
+        "family": "Knoblauch",
+        "given": "Kenneth"
+      },
+      {
+        "family": "Essen",
+        "given": "David C. Van"
+      },
+      {
+        "family": "Kennedy",
+        "given": "Henry"
+      }
+    ],
+    "container-title": "Proceedings of the National Academy of Sciences",
+    "id": "S549CvOe",
+    "issue": "13",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "5187-5192",
+    "title": "The role of long-range connections on the specificity of the macaque interareal cortical network",
+    "type": "article-journal",
+    "volume": "110",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Markov13"
+  },
+  {
+    "URL": "http://www.worldcat.org/isbn/0716715678",
+    "abstract": "A computational investigation into the human representation and processing of visual information.",
+    "author": [
+      {
+        "family": "Marr",
+        "given": "D."
+      }
+    ],
+    "id": "1BQsDipqd",
+    "issued": {
+      "date-parts": [
+        [
+          1983
+        ]
+      ]
+    },
+    "keyword": "bicv-sparse, perception, motion, motion-clouds, sanz12jnp, vision, vacher14, motion-perception, artificial-intelligence, book",
+    "note": "00278 Published: Paperback\nThis CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Marr83",
+    "publisher": "Henry Holt & Company",
+    "title": "Vision: A Computational Investigation into the Human Representation and Processing of Visual Information",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1371/journal.pone.0190429",
+    "ISSN": "1932-6203",
+    "PMID": "29304087",
+    "URL": "http://www.ncbi.nlm.nih.gov/pubmed/29304087",
+    "abstract": "In previous papers, we introduced a normative scheme for scene construction and epistemic (visual) searches based upon active inference. This scheme provides a principled account of how people decide where to look, when categorising a visual scene based on its contents. In this paper, we use active inference to explain the visual searches of normal human subjects; enabling us to answer some key questions about visual foraging and salience attribution. First, we asked whether there is any evidence for ’epistemic foraging’; i.e. exploration that resolves uncertainty about a scene. In brief, we used Bayesian model comparison to compare Markov decision process (MDP) models of scan-paths that did-and did not-contain the epistemic, uncertainty-resolving imperatives for action selection. In the course of this model comparison, we discovered that it was necessary to include non-epistemic (heuristic) policies to explain observed behaviour (e.g., a reading-like strategy that involved scanning from left to right). Despite this use of heuristic policies, model comparison showed that there is substantial evidence for epistemic foraging in the visual exploration of even simple scenes. Second, we compared MDP models that did-and did not-allow for changes in prior expectations over successive blocks of the visual search paradigm. We found that implicit prior beliefs about the speed and accuracy of visual searches changed systematically with experience. Finally, we characterised intersubject variability in terms of subject-specific prior beliefs. Specifically, we used canonical correlation analysis to see if there were any mixtures of prior expectations that could predict between-subject differences in performance; thereby establishing a quantitative link between different behavioural phenotypes and Bayesian belief updating. We demonstrated that better scene categorisation performance is consistently associated with lower reliance on heuristics; i.e., a greater use of a generative model of the scene to direct its exploration.",
+    "author": [
+      {
+        "family": "Mirza",
+        "given": "M. Berk"
+      },
+      {
+        "family": "Adams",
+        "given": "Rick A."
+      },
+      {
+        "family": "Mathys",
+        "given": "Christoph"
+      },
+      {
+        "family": "Friston",
+        "given": "Karl J."
+      }
+    ],
+    "container-title": "PLOS ONE",
+    "editor": [
+      {
+        "family": "Kiebel",
+        "given": "Stefan"
+      }
+    ],
+    "id": "KwTZpTx1",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          1
+        ]
+      ]
+    },
+    "page": "e0190429",
+    "title": "Human visual exploration reduces uncertainty about the sensed world",
+    "type": "article-journal",
+    "volume": "13",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Mirza18"
+  },
+  {
+    "DOI": "10.1038/nrn.2018.20",
+    "ISSN": "1471-003X",
+    "URL": "http://www.nature.com/doifinder/10.1038/nrn.2018.20",
+    "abstract": "Advanced recording techniques have enabled the identification of travelling waves of neuronal activity in different areas of the cortex. Sejnowski and colleagues review these findings, consider the mechanisms by which travelling waves are generated and evaluate their possible roles in cortical function.",
+    "author": [
+      {
+        "family": "Muller",
+        "given": "Lyle"
+      },
+      {
+        "family": "Chavane",
+        "given": "Frédéric"
+      },
+      {
+        "family": "Reynolds",
+        "given": "John"
+      },
+      {
+        "family": "Sejnowski",
+        "given": "Terrence J."
+      }
+    ],
+    "container-title": "Nature Reviews Neuroscience",
+    "id": "vsKvZJ82",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    },
+    "keyword": "Visual system, Neural encoding, Dynamical systems",
+    "title": "Cortical travelling waves: mechanisms and computational principles",
+    "type": "article-journal",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Muller18"
+  },
+  {
+    "DOI": "10.1016/s1364-6613(02)01963-0",
+    "ISSN": "1364-6613",
+    "PMID": "12200181",
+    "URL": "http://view.ncbi.nlm.nih.gov/pubmed/12200181",
+    "abstract": "In the primate visual system, there is a significant delay in the arrival of photoreceptor signals in visual cortical areas. Since Helmholtz, scientists have pondered over the implications of these delays for human perception. Do visual delays cause the ’ position of a moving object to lag its ’real’ position? This question has recently been re-evaluated in the context of the flash-lag phenomenon, in which a flashed object appears to lag behind a moving object, when physically the two objects are co-localized at the instant of the flash. This article critically examines recent accounts of this phenomenon, assesses its biological significance, and offers new hypotheses.",
+    "author": [
+      {
+        "family": "Nijhawan",
+        "given": "Romi"
+      }
+    ],
+    "container-title": "Trends in Cognitive Sciences",
+    "id": "Xo775eyC",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "keyword": "perrinetadamsfriston14, khoei14thesis, khoei15fle, bicv-motion, neural\\_delays, motion\\_anticipation, flash-lag, motion-trajectories, temporal-delays",
+    "page": "387-393",
+    "title": "Neural delays, visual motion and the flash-lag effect.",
+    "type": "article-journal",
+    "volume": "6",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Nijhawan02"
+  },
+  {
+    "DOI": "10.1098/rsta.2008.0270",
+    "ISSN": "1471-2962",
+    "PMID": "19218151",
+    "URL": "http://rsta.royalsocietypublishing.org/cgi/doi/10.1098/rsta.2008.0270 http://dx.doi.org/10.1098/rsta.2008.0270",
+    "abstract": "Neural delays are a general property of computations carried out by neural circuits. Delays are a natural consequence of temporal summation and coding used by the nervous system to integrate information from multiple resources. For adaptive behaviour, however, these delays must be compensated. In order to sense and interact with moving objects, for example, the visual system must predict the future position of the object to compensate for delays. In this paper, we address two critical questions concerning the implementation of the compensation mechanisms in the brain, namely, where does compensation occur and how is it realized. We present evidence showing that compensation can happen in both the motor and sensory systems, and that compensation using ’diagonal neural pathways’ is a suitable strategy for implementing compensation in the visual system. In this strategy, neural signals in the early stage of information processing are sent to the future cortical positions that correspond to the distance the object will travel in the period of transmission delay. We propose a computational model to elucidate this using the retinal visual information pathway.",
+    "author": [
+      {
+        "family": "Nijhawan",
+        "given": "Romi"
+      },
+      {
+        "family": "Wu",
+        "given": "S. Si"
+      }
+    ],
+    "container-title": "Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+    "id": "Ou6Lc3op",
+    "issue": "1891",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "keyword": "Visual Perception, Humans, Psychomotor Performance, Reaction Time, Motion Perception, Brain, Models, Motion Perception: physiology, khoei14thesis, khoei15fle, Visual Perception: physiology, Neurological, Brain: physiology, bicv-motion, Neural Pathways, Neural Pathways: physiology, Feedback, Motor Activity, Psychomotor Performance: physiology, flash-lag, Motor Activity: physiology, temporal-delays, anticipation, delay, Feedback: physiology, Retinal Ganglion Cells, Retinal Ganglion Cells: physiology, Sports",
+    "page": "1063-1078",
+    "title": "Compensating time delays with neural predictions: are predictions sensory or motor?",
+    "type": "article-journal",
+    "volume": "367",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Nijhawan09"
+  },
+  {
+    "DOI": "10.3389/fnins.2013.00178",
+    "ISSN": "1662-453X",
+    "URL": "http://journal.frontiersin.org/article/10.3389/fnins.2013.00178/abstract",
+    "abstract": "Deep Belief Networks (DBNs) have recently shown impressive performance on a broad range of classification problems. Their generative properties allow better understanding of the performance, and provide a simpler solution for sensor fusion tasks. However, because of their inherent need for feedback and parallel update of large numbers of units, DBNs are expensive to implement on serial computers. This paper proposes a method based on the Siegert approximation for Integrate-and-Fire neurons to map an offline-trained DBN onto an efficient event-driven spiking neural network suitable for hardware implementation. The method is demonstrated in simulation and by a real-time implementation of a 3-layer network with 2694 neurons used for visual classification of MNIST handwritten digits with input from a 128x128 Dynamic Vision Sensor (DVS) silicon retina, and sensory-fusion using additional input from a 64-channel AER-EAR silicon cochlea. The system is implemented through the open-source software in the jAER project and runs in real-time on a laptop computer. It is demonstrated that the system can recognize digits in the presence of distractions, noise, scaling, translation and rotation, and that the degradation of recognition performance by using an event-based approach is less than 1%. Recognition is achieved in an average of 5.8 ms after the onset of the presentation of a digit. By cue integration from both silicon retina and cochlea outputs we show that the system can be biased to select the correct digit from otherwise ambiguous input.",
+    "author": [
+      {
+        "family": "O’Connor",
+        "given": "Peter"
+      },
+      {
+        "family": "Neil",
+        "given": "Daniel"
+      },
+      {
+        "family": "Liu",
+        "given": "Shih-Chii"
+      },
+      {
+        "family": "Delbruck",
+        "given": "Tobi"
+      },
+      {
+        "family": "Pfeiffer",
+        "given": "Michael"
+      }
+    ],
+    "container-title": "Frontiers in Neuroscience",
+    "id": "t2vrbV7V",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "keyword": "deep learning, Generative Model, Spiking Neural network, Deep Belief Networks, sensory fusion, Silicon Cochlea, Silicon Retina",
+    "page": "178",
+    "title": "Real-time classification and sensor fusion with a spiking deep belief network",
+    "type": "article-journal",
+    "volume": "7",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Oconnor13"
+  },
+  {
+    "author": [
+      {
+        "family": "Olshausen",
+        "given": "Bruno A"
+      },
+      {
+        "family": "Field",
+        "given": "David J"
+      }
+    ],
+    "container-title": "Vision research",
+    "id": "NvjJq2ON",
+    "issue": "23",
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "page": "3311-3325",
+    "publisher": "Elsevier",
+    "title": "Sparse coding with an overcomplete basis set: A strategy employed by V1?",
+    "type": "article-journal",
+    "volume": "37",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Olshausen97"
+  },
+  {
+    "author": [
+      {
+        "family": "Paugam-Moisy",
+        "given": "Hélene"
+      },
+      {
+        "family": "Bohte",
+        "given": "Sander"
+      }
+    ],
+    "container-title": "Handbook of natural computing",
+    "id": "lT1Ato7P",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "335-376",
+    "publisher": "Springer",
+    "title": "Computing with spiking neuron networks",
+    "type": "chapter",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Paugam12"
+  },
+  {
+    "DOI": "10.1038/4580",
+    "ISSN": "1097-6256",
+    "PMID": "10195184",
+    "abstract": "We describe a model of visual processing in which feedback connections from a higher- to a lower-order visual cortical area carry predictions of lower-level neural activities, whereas the feedforward connections carry the residual errors between the predictions and the actual lower-level activities. When exposed to natural images, a hierarchical network of model neurons implementing such a model developed simple-cell-like receptive fields. A subset of neurons responsible for carrying the residual errors showed endstopping and other extra-classical receptive-field effects. These results suggest that rather than being exclusively feedforward phenomena, nonclassical surround effects in the visual cortex may also result from cortico-cortical feedback as a consequence of the visual system using an efficient hierarchical strategy for encoding natural images.",
+    "annote": "This is a paper about application of Kalman filters.",
+    "author": [
+      {
+        "family": "Rao",
+        "given": "R P"
+      },
+      {
+        "family": "Ballard",
+        "given": "D H"
+      }
+    ],
+    "container-title": "Nature neuroscience",
+    "id": "wDR6dzPY",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "keyword": "Visual Cortex, Visual Pathways, bicv-sparse, perrinetadamsfriston14, Models, bayesian, Visual Cortex: physiology, Neurological, perrinet11sfn, Neural Networks (Computer), assofield, kaplan13, Visual Pathways: physiology, bicv-motion, hierarchical\\_model, Feedback, Forecasting, thesis",
+    "title": "Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects.",
+    "type": "article-journal",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Rao99"
+  },
+  {
+    "URL": "https://www.elsevier.com/books/statistical-parametric-mapping-the-analysis-of-functional-brain-images/penny/978-0-12-372560-8",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          4
+        ]
+      ]
+    },
+    "id": "XWLijuQh",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "note": "02405\nThis CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: SPM12",
+    "title": "Statistical Parametric Mapping: The Analysis of Functional Brain Images - 1st Edition",
+    "title-short": "Statistical Parametric Mapping",
+    "type": "book"
+  },
+  {
+    "URL": "http://arxiv.org/abs/1811.03251",
+    "abstract": "In cat visual cortex, the response of a neural population to the linear combination of two sinusoidal gratings (a plaid) can be well approximated by a weighted sum of the population responses to the individual gratings — a property we refer to as {\\\\em subspace invariance}. We tested subspace invariance in mouse primary visual cortex by measuring the angle between the population response to a plaid and the plane spanned by the population responses to its individual components. We found robust violations of subspace invariance arising from a strong, negative correlation between the responses of neurons to individual gratings and their responses to the plaid. Contrast invariance, a special case of subspace invariance, also failed. The responses of some neurons decreased with increasing contrast, while others increased. Altogether the data show that subspace and contrast invariance do not hold in mouse primary visual cortex. These findings rule out some models of population coding, including vector averaging, some versions of normalization and temporal multiplexing.",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          8
+        ]
+      ]
+    },
+    "annote": "Comment: 18 pages, 7 figures",
+    "author": [
+      {
+        "family": "Tring",
+        "given": "Elaine"
+      },
+      {
+        "family": "Ringach",
+        "given": "Dario L."
+      }
+    ],
+    "container-title": "arXiv:1811.03251 \\[q-bio\\]",
+    "id": "Fsp1YasP",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          11
+        ]
+      ]
+    },
+    "keyword": "Quantitative Biology - Neurons and Cognition",
+    "note": "00000 arXiv: 1811.03251\nThis CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Tring18",
+    "title": "On the Subspace Invariance of Population Responses",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10/gft5mn",
+    "ISSN": "0149-7634",
+    "URL": "http://www.sciencedirect.com/science/article/pii/S0149763418308315",
+    "abstract": "The concept of “emergence” has become commonplace in the modelling of complex systems, both natural and man-made; a functional property” emerges” from a system when it cannot be readily explained by the properties of the system’s sub-units. A bewildering array of adaptive and sophisticated behaviours can be observed from large ensembles of elementary agents such as ant colonies, bird flocks or by the interactions of elementary material units such as molecules or weather elements. Ultimately, emergence has been adopted as the ontological support of a number of attempts to model brain function. This manuscript aims to clarify the ontology of emergence and delve into its many facets, particularly into its “strong” and “weak” versions that underpin two different approaches to the modelling of behaviour. The first group of models is here represented by the “free energy” principle of brain function and the “integrated information theory” of consciousness. The second group is instead represented by computational models such as oscillatory networks that use mathematical scalable representations to generate emergent behaviours and are then able to bridge neurobiology with higher mental functions. Drawing on the epistemological literature, we observe that due to their loose mechanistic links with the underlying biology, models based on strong forms of emergence are at risk of metaphysical implausibility. This, in practical terms, translates into the overdetermination that occurs when the proposed model becomes only one of a large set of possible explanations for the observable phenomena. On the other hand, computational models that start from biologically plausible elementary units, hence are weakly emergent, are not limited by ontological faults and, if scalable and able to realistically simulate the hierarchies of brain output, represent a powerful vehicle for future neuroscientific research programmes.",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          4
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Turkheimer",
+        "given": "Federico E."
+      },
+      {
+        "family": "Hellyer",
+        "given": "Peter"
+      },
+      {
+        "family": "Kehagia",
+        "given": "Angie A."
+      },
+      {
+        "family": "Expert",
+        "given": "Paul"
+      },
+      {
+        "family": "Lord",
+        "given": "Louis-David"
+      },
+      {
+        "family": "Vohryzek",
+        "given": "Jakub"
+      },
+      {
+        "family": "De Faria Dafflon",
+        "given": "Jessica"
+      },
+      {
+        "family": "Brammer",
+        "given": "Mick"
+      },
+      {
+        "family": "Leech",
+        "given": "Robert"
+      }
+    ],
+    "container-title": "Neuroscience & Biobehavioral Reviews",
+    "id": "16GK8iv5c",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1
+        ]
+      ]
+    },
+    "keyword": "Bayesian inference, brain, computational models, emergence, free energy principle, integrated information theory, multi-scale, oscillators, strong emergence, weak emergence",
+    "note": "00000\nThis CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Turkheimer19",
+    "title": "Conflicting Emergences. Weak vs. strong emergence for the modelling of brain function",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1016/j.conb.2018.11.002",
+    "URL": "https://doi.org/10.1016/j.conb.2018.11.002 Get",
+    "abstract": "Understanding the organization of complex behavior as it relates to the brain requires modeling the behavior, the relevant mental processes, and the corresponding neural activity. Experiments in cognitive neuroscience typically study a psychological process via controlled manipulations, reducing behavior to one of its component. Such reductionism can easily lead to paradigm-bound theories. Predictive models can generalize brain-mind associations to arbitrary new tasks and stimuli. We argue that they are needed to broaden theories beyond specific paradigms. Predicting behavior from neural activity can support robust reverse inference, isolating brain structures that support particular mental processes. The converse prediction enables modeling brain responses as a function of a complete description of the task, rather than building on oppositions.",
+    "author": [
+      {
+        "family": "Varoquaux",
+        "given": "Gaël"
+      },
+      {
+        "family": "Poldrack",
+        "given": "Russell"
+      }
+    ],
+    "id": "12pYAP1ZK",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "6",
+    "title": "Predictive models avoid excessive reductionism in cognitive neuroimaging",
+    "type": "article-journal",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Varoquaux19"
+  },
+  {
+    "author": [
+      {
+        "family": "Vinje",
+        "given": "William E"
+      },
+      {
+        "family": "Gallant",
+        "given": "Jack L"
+      }
+    ],
+    "id": "hkNq80Zs",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "keyword": "sparse coding, information theory, v1, any real neural code, are biologically implausible, efficiency, extremes, natural vision, nonclassical receptive field, where between these two, will fall some-, \\_Invalid DOI",
+    "title": "Natural Stimulation of the Nonclassical Receptive Field Increases Information Transmission Efficiency in V1",
+    "type": "article-journal",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Vinje02"
+  },
+  {
+    "author": [
+      {
+        "family": "Wigner",
+        "given": "Eugene P"
+      }
+    ],
+    "container-title": "Mathematics and Science",
+    "id": "c9pTAV3r",
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "page": "291-306",
+    "publisher": "World Scientific",
+    "title": "The unreasonable effectiveness of mathematics in the natural sciences",
+    "type": "chapter",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: Wigner90"
+  },
+  {
+    "author": [
+      {
+        "family": "Von Helmholtz",
+        "given": "Hermann"
+      }
+    ],
+    "id": "p062SF1J",
+    "issued": {
+      "date-parts": [
+        [
+          1867
+        ]
+      ]
+    },
+    "publisher": "Leopold Voss",
+    "publisher-place": "Leipzig",
+    "title": "Handbuch der physiologischen Optik",
+    "type": "book",
+    "volume": "9",
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.bib\nstandard_id: vonHelmholtz1867"
+  }
+]
