@@ -1,17 +1,5 @@
 ---
 title: "From the retina to action: Dynamics of predictive processing in the visual system"
-authors:
-  -
-    github: laurentperrinet
-    name: Laurent U Perrinet
-    initials: LuP
-    orcid: 0000-0002-9536-010X
-    twitter: laurentperrinet
-    website: https://laurentperrinet.github.io/
-    email: laurent.perrinet@univ-amu.fr
-    affiliations:
-      - Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
-    funders: This work was supported by ANR project "Horizontal-V1" N°ANR-17-CE37-0006.
 keywords:
     - Vision
     - Delays
@@ -21,3 +9,16 @@ keywords:
     - Dynamics
     - Perception
     - Active Inference
+lang: en-US
+authors:
+  - github: laurentperrinet
+    name: Laurent U Perrinet
+    initials: LuP
+    orcid: 0000-0002-9536-010X
+    twitter: laurentperrinet
+    website: https://laurentperrinet.github.io/
+    email: laurent.perrinet@univ-amu.fr
+    affiliations:
+      - Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
+    funders:
+      - This work was supported by ANR project "Horizontal-V1" N°ANR-17-CE37-0006.
