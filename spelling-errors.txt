@@ -6,6 +6,7 @@ ANR
 axonal
 Baudot
 bicv
+biomimetic
 Bucy
 CAPTCHA
 CNRS
@@ -49,6 +50,7 @@ neuro
 Neurobiologically
 neuromorphic
 neurophysiological
+neurophysiology
 neuroscience
 Neurosciences
 neurotypic
@@ -65,8 +67,10 @@ pre
 presynaptic
 priori
 psychophysical
+psychophysics
 Rao
 retinotopic
+retinotopically
 saccades
 saccadic
 sensorimotor

@@ -1,3 +1,9 @@
+content/01.abstract.md:3:biomimetic
+content/01.abstract.md:3:neurophysiological
+content/01.abstract.md:3:neurophysiology
+content/01.abstract.md:3:priori
+content/01.abstract.md:3:psychophysics
+content/01.abstract.md:3:retinotopically
 content/02.main.md:4:CAPTCHA
 content/02.main.md:4:CAPTCHA
 content/02.main.md:4:datasets
