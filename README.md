@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/laurentperrinet/Perrinet20PredictiveProcessing_manubot/tree/gh-pages) branch hosts the contents of this directory at <https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/>.
-The permalink for this webpage version is <https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/b06b8df9691f6cb90f6d7d0ced156ae8853a0308/>.
+The permalink for this webpage version is <https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/3990cefc88300560f936c0b2b2090541a83d0542/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`b06b8df9691f6cb90f6d7d0ced156ae8853a0308`](https://github.com/laurentperrinet/Perrinet20PredictiveProcessing_manubot/commit/b06b8df9691f6cb90f6d7d0ced156ae8853a0308).
+[`3990cefc88300560f936c0b2b2090541a83d0542`](https://github.com/laurentperrinet/Perrinet20PredictiveProcessing_manubot/commit/3990cefc88300560f936c0b2b2090541a83d0542).
