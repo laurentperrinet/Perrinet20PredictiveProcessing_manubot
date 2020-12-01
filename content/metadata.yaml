@@ -22,3 +22,8 @@ authors:
       - Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
     funders:
       - ANR project "Horizontal-V1" N°ANR-17-CE37-0006.
+sectionsDepth: -1
+numberSections: true
+figureTitle: |
+ Figure
+autoSectionLabels: True
