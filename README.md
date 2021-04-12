@@ -6,8 +6,10 @@
 [![GitHub Actions Status](https://github.com/manubot/rootstock/workflows/Manubot/badge.svg)](https://github.com/laurentperrinet/Perrinet20PredictiveProcessing_manubot/actions)
 <!-- usage note: delete CI badges above for services not used by your manuscript -->
 
-
 <!-- usage note: edit this section. -->
+
+[![DOI](https://zenodo.org/badge/167395481.svg)](https://zenodo.org/badge/latestdoi/167395481)
+
 ## by Laurent Perrinet (2020)
 
  * Read the [full text](https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/latest/index.html)
