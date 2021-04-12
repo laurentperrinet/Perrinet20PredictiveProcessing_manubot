@@ -51,7 +51,6 @@ content/02.main.md:30:SPEM
 content/02.main.md:30:SPEM
 content/02.main.md:30:SPEM
 content/02.main.md:30:SPEM
-content/02.main.md:32:neuroscience
 content/02.main.md:32:priori
 content/02.main.md:32:psychophysical
 content/02.main.md:32:SPEM
@@ -118,7 +117,6 @@ content/02.main.md:84:neuro
 content/02.main.md:84:presynaptic
 content/02.main.md:84:SNNs
 content/02.main.md:84:SNNs
-content/02.main.md:84:synchrony
 content/02.main.md:88:disambiguating
 content/02.main.md:88:intra
 content/02.main.md:88:SNN

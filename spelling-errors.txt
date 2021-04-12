@@ -11,7 +11,7 @@ Bucy
 CAPTCHA
 CNRS
 compu
-convolutional
+Convolutional
 counterintuitive
 CPUs
 datasets
@@ -51,7 +51,6 @@ Neurobiologically
 neuromorphic
 neurophysiological
 neurophysiology
-neuroscience
 Neurosciences
 neurotypic
 Nijhawan
@@ -81,7 +80,6 @@ soliton
 SPEM
 SPM
 Subramaniyan
-synchrony
 tations
 thalamic
 thalamocortical
