@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: If you use this software, please cite the accompanying publication (preferred-citation below).
+type: software
+title: 'From the retina to action: Dynamics of predictive processing in the visual system'
+authors:
+- family-names: Perrinet
+  given-names: Laurent U
+  orcid: https://orcid.org/0000-0002-9536-010X
+repository-code: https://github.com/laurentperrinet/Perrinet20PredictiveProcessing_manubot
+url: https://laurentperrinet.github.io/publication/perrinet-20/
+keywords:
+- bayesian-modelling
+- foveated-vision
+- log-polar-mapping
+- motion-perception
+- predictive-coding
+- primary-visual-cortex
+- retinotopy
+preferred-citation:
+  type: generic
+  title: 'From the retina to action: Dynamics of predictive processing in the visual system'
+  authors:
+  - family-names: Perrinet
+    given-names: Laurent U
+    orcid: https://orcid.org/0000-0002-9536-010X
+  collection-title: The Philosophy and Science of Predictive Processing
+  start: '85'
+  end: '104'
+  publisher:
+    name: Bloomsbury
+  doi: 10.5040/9781350099784.ch-005
+  year: 2020
+  url: https://laurentperrinet.github.io/publication/perrinet-20/
